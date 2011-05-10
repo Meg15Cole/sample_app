@@ -17,6 +17,7 @@ namespace :db do
                    :email => email,
                    :password => password,
                    :password_confirmation => password)
+    end
   end
 end
 
